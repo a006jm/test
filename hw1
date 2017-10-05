@@ -1,0 +1,15 @@
+//Andy Murphy  
+//ajmfpn
+//Homework 1
+
+int main(void){
+    int a = 0;
+
+    while(a=0){
+        printf("Enter Student Id: ");
+        int id = scanf(%d, &id);
+
+        a++;
+    }
+}
+
